@@ -1,0 +1,4 @@
+All cars of the model "Golf" and the age of 5 years or older:
+ID: 4, brand: VW, model: Golf, year of manufacture: 1999, color: white, price: 18000, registration number: E-GL-1999
+ID: 5, brand: VW, model: Golf, year of manufacture: 2005, color: black, price: 5000, registration number: E-MN-2005
+ID: 6, brand: VW, model: Golf, year of manufacture: 2013, color: silver, price: 10000, registration number: M-DD-2013

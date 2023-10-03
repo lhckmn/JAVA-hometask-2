@@ -1,0 +1,4 @@
+All cars manufacured in the year 2012 that are more expensive than 9000:
+ID: 0, brand: BMW, model: 320d, year of manufacture: 2012, color: white, price: 50000, registration number: ME-MH-2012
+ID: 3, brand: Skoda, model: Yeti, year of manufacture: 2012, color: black, price: 20000, registration number: E-LF-2012
+ID: 9, brand: Mercedes Benz, model: S500, year of manufacture: 2012, color: blacl, price: 60000, registration number: S-MB-2012
